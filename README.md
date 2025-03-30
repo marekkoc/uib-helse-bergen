@@ -13,9 +13,9 @@ To be updated very soon ;)
 2. [Academic CV]()
 3. [Full academic CV](https://www.dropbox.com/scl/fi/46818kpjaq79yxbuahpmh/20250329_MKocinski-CV-full.pdf?rlkey=yecsy8w3zxfe7wmz12zqyq9vn&st=4aetppl8&dl=0)
 
-# Senior Software Developer 
+## Senior Software Developer 
 
-# Postdoctoral research fellow in radiology and imaging-related Medical-AI
+## Postdoctoral research fellow in radiology and imaging-related Medical-AI
 
 # Related projects:
 1. -
