@@ -6,7 +6,7 @@ To be updated very soon ;)
 # Links:
 1. [www](https://marekkoc.github.io)
 2. [GitHub](https://github.com/marekkoc)
-4. LinkedIn
+4. [LinkedIn](https://www.linkedin.com/in/marek-kocinski-285a64110/)
 
 # Documents to downoload:
 1. List of publications: by projects, by year
