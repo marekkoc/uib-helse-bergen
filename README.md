@@ -21,4 +21,4 @@ To be updated very soon ;)
 1. -
 2. -
 3. ....
-4. Kiwi fruit seeds segmentation of 3D MR image [source code](https://github.com/marekkoc/Kiwi2021/kiwi-segm1.ipynb)
+4. Kiwi fruit seeds segmentation of 3D MR image ([source code](https://github.com/marekkoc/Kiwi2021/kiwi-segm1.ipynb))
