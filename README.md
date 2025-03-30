@@ -3,12 +3,12 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 
 To be updated very soon ;) 
 
-Links:
+# Links:
 1. www
 2. GitHub
 3. LinkedIn
 
-Documents to downoload:
+# Documents to downoload:
 1. List of publications: by projects, by year
 2. Academic CV (short)
 3. Full academic CV
