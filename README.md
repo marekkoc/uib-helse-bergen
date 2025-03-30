@@ -4,9 +4,9 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 To be updated very soon ;) 
 
 # Links:
-1. www
-2. GitHub
-3. LinkedIn
+1. [www](https://marekkoc.github.io)
+2. [GitHub](https://github.com/marekkoc)
+4. LinkedIn
 
 # Documents to downoload:
 1. List of publications: by projects, by year
