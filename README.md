@@ -8,7 +8,7 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 4. [LinkedIn](https://www.linkedin.com/in/marek-kocinski-285a64110/)
 
 # Documents to downoload:
-1. [List of publications](https://www.dropbox.com/scl/fi/ixwqcw3ozq5aj167dds4f/20250329_mk_List-of-publications.pdf?rlkey=rrk37t0sgcof9zi4m1bvdtdrc&st=ekoqq8gt&dl=0), ([sorted by projects](https://www.dropbox.com/scl/fi/zp9533amoq0ijkal4j4q1/20250329_mk_List-of-publications-by-projects.pdf?rlkey=sixeox278dmny68xys7a0wei9&st=82jbh1pt&dl=0))
+1. [List of publications](https://www.dropbox.com/scl/fi/ixwqcw3ozq5aj167dds4f/20250329_mk_List-of-publications.pdf?rlkey=rrk37t0sgcof9zi4m1bvdtdrc&st=ekoqq8gt&dl=0), ([sorted by projects](https://www.dropbox.com/scl/fi/i4timyhavrvcozmwyi2at/20250329_mk_List-of-publications-by-projects.pdf?rlkey=9a5mbkdk32801ne6itigdlris&st=3tdp6nzo&dl=0))
 1. [CV Academic](https://www.dropbox.com/scl/fi/kybqbevrj89bdidexx90w/20250330_MKocinski_CV.pdf?rlkey=y1y2uijjhifv37f7y6pccv0hz&st=ogea3xsu&dl=0)
 1. [Full academic CV](https://www.dropbox.com/scl/fi/6j2p7ebjx78ueg5mbzbva/20250329_MKocinski-CV-full.pdf?rlkey=aezirs2fr972vu7yup3a7lfqo&st=u8r09sdg&dl=0)
 1. [PhD diploma](https://www.dropbox.com/scl/fi/ns5z8i1onai856futf374/2009_Kocinski_PhD-diploma-eng.pdf?rlkey=2zpssj6azc6tjxunsdtafo8z0&st=vbirqoue&dl=0)
