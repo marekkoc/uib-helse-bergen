@@ -17,7 +17,15 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 ## Postdoctoral research fellow in radiology and imaging-related Medical-AI
 
 # Related projects (to be ubdated soon):
-1. -
-2. -
-3. ....
-4. Kiwi fruit seeds segmentation of 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
+1. 
+1. Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms
+1. Prediction methods of conversion individuals with Mild Cognitive Impairment to Alzheimer’s Disease with clinically transferable features
+1. Texture analysis of MR endometrial carcinoma images
+1. Quantitative analysis and surface modeling of blood vessels from 3D MRI (ToF, SWI)
+1. Computer-aided analysis of prostate cancer in multiparametric MR images
+1. Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
+1. Quantitative analysis of vascular trees represented by digital images
+1. Exhange model between blood vessel and surrounding tissue
+1. Computer simulation of vascular tree growth and blood flow simulation through porus tissue
+1.Computer-aided image-guided system for maxillofacial surgery
+1. Kiwi fruit seeds segmentation of 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
