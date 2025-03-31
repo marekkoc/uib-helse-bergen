@@ -22,7 +22,10 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 1. Texture analysis of MR endometrial carcinoma images
 1. Quantitative analysis and surface modeling of blood vessels from 3D MRI (ToF, SWI)
 1. Computer-aided analysis of prostate cancer in multiparametric MR images
+1. Kidney compartment segmentation and visualization
+1. Assessment of brain tumor vascularizaton
 1. Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
+1. Validation of blood vessel segmentation algorithms
 1. Quantitative analysis of vascular trees represented by digital images
 1. Exhange model between blood vessel and surrounding tissue
 1. Computer simulation of vascular tree growth and blood flow simulation through porus tissue
