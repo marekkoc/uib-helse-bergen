@@ -27,7 +27,7 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 1. Texture analysis of MR endometrial carcinoma images
 1. Quantitative analysis and surface modeling of blood vessels from 3D MRI (ToF, SWI)
 1. Computer-aided analysis of prostate cancer in multiparametric MR images
-1. Kidney compartment segmentation, analysis and visualization ([Kidney-quant](https://github.com/MMIV-ML/kidney-quant), [KidneySegm](https://github.com/MMIV-ML/KidneySegm), [kidney-dev](https://github.com/marekkoc/kidney-dev))
+1. Kidney compartment segmentation, analysis and visualization ([KidneySegm](https://github.com/MMIV-ML/KidneySegm), [kidney-dev](https://github.com/marekkoc/kidney-dev), [Kidney-quant](https://github.com/MMIV-ML/kidney-quant))
 1. Assessment of brain tumor vascularizaton
 1. Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
 1. Validation of blood vessel segmentation algorithms
@@ -38,5 +38,6 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 1. Computer-aided image-guided system for maxillofacial surgery
 1. Kiwi fruit seeds segmentation from 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
 
-   # Teaching
-   1. Image processing and computer graphics (in Polish) [repo](https://github.com/marekkoc/2016-2017_POiGK)
+# Teaching
+1. Image processing and computer graphics (in Polish) ([repo](https://github.com/marekkoc/2016-2017_POiGK))
+1. Fundamentals of programming 
