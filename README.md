@@ -12,7 +12,7 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 1. [CV Academic](https://www.dropbox.com/scl/fi/kybqbevrj89bdidexx90w/20250330_MKocinski_CV.pdf?rlkey=y1y2uijjhifv37f7y6pccv0hz&st=ogea3xsu&dl=0)
 1. [Full academic CV](https://www.dropbox.com/scl/fi/46818kpjaq79yxbuahpmh/20250329_MKocinski-CV-full.pdf?rlkey=yecsy8w3zxfe7wmz12zqyq9vn&st=4aetppl8&dl=0)
 1. [PhD diploma](https://www.dropbox.com/scl/fi/ns5z8i1onai856futf374/2009_Kocinski_PhD-diploma-eng.pdf?rlkey=2zpssj6azc6tjxunsdtafo8z0&st=vbirqoue&dl=0)
-1. Letters of recomendaions: [1](), [2]()
+1. Letters of recomendaions: [1](https://www.dropbox.com/scl/fi/vz78wkv0p5tn8fmx0j39k/20241030_AM_letter_of_recommendation.pdf?rlkey=rw7ihm8o7dmzqa88mqun51n2j&st=gedq46gs&dl=0), [2](https://www.dropbox.com/scl/fi/otslverl4f2xiixx0f86m/20023_APrzekwas-CFDRC-Letter-of-Recommendation.jpg?rlkey=k3u3tkvmm1z3lrvd9pmacsxxo&st=wqg3489v&dl=0)
 
 ## Senior Software Developer 
 
