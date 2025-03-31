@@ -16,7 +16,7 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 
 ## Postdoctoral research fellow in radiology and imaging-related Medical-AI
 
-# Related projects (to be ubdated soon):
+# Related projects (to be updated soon):
 1. Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms
 1. Prediction methods of conversion individuals with Mild Cognitive Impairment to Alzheimer’s Disease with clinically transferable features
 1. Texture analysis of MR endometrial carcinoma images
