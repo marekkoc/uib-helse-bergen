@@ -23,7 +23,7 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 
 # Related projects (to be updated soon):
 1. Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms
-1. Prediction methods of conversion individuals with Mild Cognitive Impairment to Alzheimer’s Disease with clinically transferable features ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src)
+1. Prediction methods of conversion individuals with Mild Cognitive Impairment to Alzheimer’s Disease with clinically transferable features ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src))
 1. Texture analysis of MR endometrial carcinoma images
 1. Quantitative analysis and surface modeling of blood vessels from 3D MRI (ToF, SWI)
 1. Computer-aided analysis of prostate cancer in multiparametric MR images
