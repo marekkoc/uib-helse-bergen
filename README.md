@@ -30,4 +30,4 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 1. Exhange model between blood vessel and surrounding tissue
 1. Computer simulation of vascular tree growth and blood flow simulation through porus tissue
 1. Computer-aided image-guided system for maxillofacial surgery
-1. Kiwi fruit seeds segmentation of 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
+1. Kiwi fruit seeds segmentation from 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
