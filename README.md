@@ -1,7 +1,6 @@
 # UiB - Helse Bergen
 Helse Bergen applications: Senior Software Developer and Postdoctoral research fellow in radiology and imaging-related Medical-AI
 
-To be updated very soon ;) 
 
 # Links:
 1. [www](https://marekkoc.github.io)
@@ -17,7 +16,7 @@ To be updated very soon ;)
 
 ## Postdoctoral research fellow in radiology and imaging-related Medical-AI
 
-# Related projects:
+# Related projects (to be ubdated soon):
 1. -
 2. -
 3. ....
