@@ -20,6 +20,10 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 [Motivation letter](https://www.dropbox.com/scl/fi/cst79btriuczgo1e56111/20250331_MKocinski-UiB-MMIV-senior-software-developer.pdf?rlkey=jjitfcmtm18ptovl5ni3axbhw&st=zfkbaa27&dl=0)
 
 ## Postdoctoral research fellow in radiology and imaging-related Medical-AI
+1. [Motivation letter](https://www.dropbox.com/scl/fi/ge2emh4h8i0yshit3h63e/20250401_MKocinski_post-doc.pdf?rlkey=hjvr0mlbht1uv0h9nj5f25olz&st=r7w1o7zs&dl=0)
+2. Proposal [Advanced Geometric Analysis and Modeling of Blood Vessel Networks
+Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/20250401_MMIV-proposal-1.pdf?rlkey=jhlc1f5owdhfrocodinro57yq&st=08urrixa&dl=0)
+3. Proposal [Integrated Research and Education System for Multidisciplinary](https://www.dropbox.com/scl/fi/1jcqltdj8mn6j59hbxiwc/20250401_MMIV-proposal-2.pdf?rlkey=z5bz0rz0noycduky91c36bopd&st=6mvni9dy&dl=0)
 
 # Related projects (to be updated soon):
 1. Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms
