@@ -43,5 +43,5 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 1. Kiwi fruit seeds segmentation from 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
 
 # Teaching
-1. Image processing and computer graphics (in Polish) ([repo](https://github.com/marekkoc/2016-2017_POiGK))
+1. [Image processing and computer graphics](https://github.com/marekkoc/2016-2017_POiGK)(in Polish)
 1. Fundamentals of programming 
