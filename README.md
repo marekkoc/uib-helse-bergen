@@ -28,7 +28,7 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 # Related projects (to be updated soon):
 1. Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms
 1. Prediction methods of conversion individuals with Mild Cognitive Impairment to Alzheimer’s Disease with clinically transferable features ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src). [paper repo](https://github.com/marekkoc/Vik_et_al_FAQ-predictor-of-AD_paper-source-code))
-1. Texture analysis of MR endometrial carcinoma images
+1. [Texture analysis of MR endometrial carcinoma images](https://github.com/marekkoc/EndoMR-TextureAnalysis/tree/main)
 1. Quantitative analysis and surface modeling of blood vessels from 3D MRI (ToF, SWI)
 1. Computer-aided analysis of prostate cancer in multiparametric MR images
 1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
