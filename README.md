@@ -41,7 +41,7 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 1. "MRI simulator" of computer simulated vascular trees
 1. Computer simulation of vascular tree growth and blood flow simulation through porus tissue
 1. Computer-aided image-guided system for maxillofacial surgery
-1. Kiwi fruit seeds segmentation from 3D MR image ([repo](https://github.com/marekkoc/Kiwi2021/). [source code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
+1. [Kiwi fruit seeds segmentation from 3D MR image](https://github.com/marekkoc/Kiwi2021/) ([code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
 
 
 # Teaching
