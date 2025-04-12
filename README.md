@@ -25,7 +25,7 @@ Helse Bergen applications: Senior Software Developer and Postdoctoral research f
 Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/20250401_MMIV-proposal-1.pdf?rlkey=jhlc1f5owdhfrocodinro57yq&st=08urrixa&dl=0)
 3. Proposal 2. [Integrated Research and Education System for Multidisciplinary](https://www.dropbox.com/scl/fi/1jcqltdj8mn6j59hbxiwc/20250401_MMIV-proposal-2.pdf?rlkey=z5bz0rz0noycduky91c36bopd&st=6mvni9dy&dl=0)
 
-# Related projects (to be updated soon):
+# Related projects (under continous construction ;-P ):
 1. [Texture analysis of MR endometrial carcinoma images](https://github.com/marekkoc/EndoMR-TextureAnalysis/tree/main)
 1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
 1. [Assessment of brain tumor vascularizaton](https://github.com/marekkoc/brain-tumor-vascularization/tree/main)
