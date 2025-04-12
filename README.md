@@ -36,7 +36,7 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 1. [Computer-aided analysis of paranasal sinus in CT images](https://github.com/marekkoc/paranasal-sinus-analysis-in-ct)
 1. Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
 1. Validation of blood vessel segmentation algorithms
-1. Quantitative analysis of vascular trees represented by digital images
+1. [3D image texture analysis of simulated and real-world vascular trees](https://github.com/marekkoc/vascular-tree-3D-texture-analysis)
 1. Exhange model between blood vessel and surrounding tissue
 1. "MRI simulator" of computer simulated vascular trees
 1. Computer simulation of vascular tree growth and blood flow simulation through porus tissue
