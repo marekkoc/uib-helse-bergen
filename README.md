@@ -30,7 +30,7 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
 1. [Mild Cognitive Impairment to Alzheimer’s Disease prediction with clinically transferable features](https://github.com/marekkoc/MCI-to-AD-Conversion-Predictors) ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src). [paper repo](https://github.com/marekkoc/Vik_et_al_FAQ-predictor-of-AD_paper-source-code))
 1. [Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms](https://github.com/marekkoc/2d-3d-unet-skullstripping)
-1. Geometric modeling of blood vesselsI (ToF, SWI)
+1. [Geometric modeling of blood vessels](https://github.com/marekkoc/blood-vessels-modeling)
    - [3D image texture analysis of simulated and real-world vascular trees](https://github.com/marekkoc/vascular-tree-3D-texture-analysis)
    - [Assessment of brain tumor vascularizaton](https://github.com/marekkoc/brain-tumor-vascularization/tree/main)
    - Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
