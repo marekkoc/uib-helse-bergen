@@ -28,19 +28,19 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 # Related projects:
 1. [Texture analysis of MR endometrial carcinoma images](https://github.com/marekkoc/EndoMR-TextureAnalysis/tree/main)
 1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
-1. [Assessment of brain tumor vascularizaton](https://github.com/marekkoc/brain-tumor-vascularization/tree/main)
 1. [Mild Cognitive Impairment to Alzheimer’s Disease prediction with clinically transferable features](https://github.com/marekkoc/MCI-to-AD-Conversion-Predictors) ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src). [paper repo](https://github.com/marekkoc/Vik_et_al_FAQ-predictor-of-AD_paper-source-code))
 1. [Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms](https://github.com/marekkoc/2d-3d-unet-skullstripping)
-1. Quantitative analysis and surface modeling of blood vessels from 3D MRI (ToF, SWI)
+1. Geometric modeling of blood vesselsI (ToF, SWI)
+   - [3D image texture analysis of simulated and real-world vascular trees](https://github.com/marekkoc/vascular-tree-3D-texture-analysis)
+   - [Assessment of brain tumor vascularizaton](https://github.com/marekkoc/brain-tumor-vascularization/tree/main)
+   - Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
+   - Validation of blood vessel segmentation algorithms
+   - Exhange model between blood vessel and surrounding tissue
+   - "MRI simulator" of computer simulated vascular trees
+   - Computer simulation of vascular tree growth and blood flow simulation through porus tissue   
 1. Computer-aided analysis of prostate cancer in multiparametric MR images
-1. [Computer-aided analysis of paranasal sinus in CT images](https://github.com/marekkoc/paranasal-sinus-analysis-in-ct)
-1. Numerical modeling of the cerebral arterial and venous blood-vessel system in macro-and meso-scale based on 3D MRI data
-1. Validation of blood vessel segmentation algorithms
-1. [3D image texture analysis of simulated and real-world vascular trees](https://github.com/marekkoc/vascular-tree-3D-texture-analysis)
-1. Exhange model between blood vessel and surrounding tissue
-1. "MRI simulator" of computer simulated vascular trees
-1. Computer simulation of vascular tree growth and blood flow simulation through porus tissue
 1. Computer-aided image-guided system for maxillofacial surgery
+1. [Computer-aided analysis of paranasal sinus in CT images](https://github.com/marekkoc/paranasal-sinus-analysis-in-ct)
 1. [Kiwi fruit seeds segmentation from 3D MR image](https://github.com/marekkoc/Kiwi2021/) ([code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
 
 
