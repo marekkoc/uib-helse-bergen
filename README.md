@@ -26,15 +26,16 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
 3. Proposal 2. [Integrated Research and Education System for Multidisciplinary](https://www.dropbox.com/scl/fi/1jcqltdj8mn6j59hbxiwc/20250401_MMIV-proposal-2.pdf?rlkey=z5bz0rz0noycduky91c36bopd&st=6mvni9dy&dl=0)
 
 # Related projects:
+1. [Geometric modeling of blood vessels](https://github.com/marekkoc/blood-vessels-modeling)
 1. [Texture analysis of MR endometrial carcinoma images](https://github.com/marekkoc/EndoMR-TextureAnalysis/tree/main)
-1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
 1. [Mild Cognitive Impairment to Alzheimer’s Disease prediction with clinically transferable features](https://github.com/marekkoc/MCI-to-AD-Conversion-Predictors) ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src). [paper repo](https://github.com/marekkoc/Vik_et_al_FAQ-predictor-of-AD_paper-source-code))
 1. [Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms](https://github.com/marekkoc/2d-3d-unet-skullstripping)
-1. [Geometric modeling of blood vessels](https://github.com/marekkoc/blood-vessels-modeling)
-1. Computer-aided analysis of prostate cancer in multiparametric MR images
-1. Computer-aided image-guided system for maxillofacial surgery
-1. [Computer-aided analysis of paranasal sinus in CT images](https://github.com/marekkoc/paranasal-sinus-analysis-in-ct)
-1. [Kiwi fruit seeds segmentation from 3D MR image](https://github.com/marekkoc/Kiwi2021/) ([code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
+1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
+1. Other projects:
+    - Computer-aided analysis of prostate cancer in multiparametric MR images
+    - Computer-aided image-guided system for maxillofacial surgery
+    - [Computer-aided analysis of paranasal sinus in CT images](https://github.com/marekkoc/paranasal-sinus-analysis-in-ct)
+    - [Kiwi fruit seeds segmentation from 3D MR image](https://github.com/marekkoc/Kiwi2021/) ([code](https://github.com/marekkoc/Kiwi2021/blob/main/kiwi-segm1.ipynb))
 
 
 # Teaching
