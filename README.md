@@ -1,7 +1,7 @@
 # UiB - Helse Bergen
 Helse Bergen applications:
+1. Postdoctoral research fellow in radiology and imaging-related Medical-AI
 1. Senior Software Developer
-2.  Postdoctoral research fellow in radiology and imaging-related Medical-AI
 
 
 # Links:
