@@ -1,6 +1,6 @@
 # Solution for a Knowledge-Based Chatbot System for FIONA Application
 
-Based on the provided documents, I'll design a chatbot solution for the FIONA application that will help users find information about planning research projects and features of the Steve system.
+A chatbot solution for the FIONA application that will help users find information about planning research projects.
 
 ## 1. Approach to Solution and Preventing Hallucinations
 
