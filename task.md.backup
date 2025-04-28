@@ -5,7 +5,7 @@ A chatbot solution for the FIONA application that will help users find informati
 ## 1. Approach to Solution and Preventing Hallucinations
 
 ### System Architecture
-An architecture based on RAG (Retrieval-Augmented Generation) models:
+I propose an architecture based on RAG (Retrieval-Augmented Generation) models:
 
 1. **Document Indexing**:
    - Processing the provided documents into text fragments (chunking)
