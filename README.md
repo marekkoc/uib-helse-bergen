@@ -16,7 +16,7 @@ Helse Bergen applications:
 1. PhD diploma <!--(https://www.dropbox.com/scl/fi/ns5z8i1onai856futf374/2009_Kocinski_PhD-diploma-eng.pdf?rlkey=2zpssj6azc6tjxunsdtafo8z0&st=vbirqoue&dl=0) -->
 1. Letters of recomendaion: [1]<!--(https://www.dropbox.com/scl/fi/vz78wkv0p5tn8fmx0j39k/20241030_AM_letter_of_recommendation.pdf?rlkey=rw7ihm8o7dmzqa88mqun51n2j&st=gedq46gs&dl=0)-->, [2]<!--(https://www.dropbox.com/scl/fi/otslverl4f2xiixx0f86m/20023_APrzekwas-CFDRC-Letter-of-Recommendation.jpg?rlkey=k3u3tkvmm1z3lrvd9pmacsxxo&st=wqg3489v&dl=0)-->
 1. Certificates: [1](https://www.dropbox.com/scl/fi/46y2rmjzjoyzvmnx8ckch/2011_Enthought_Pythoni.pdf?rlkey=ro47oqupka42l6a89ck7kirio&st=d6dm8zv3&dl=0), [2](https://www.dropbox.com/scl/fi/ftmiirmpzurxx5v6avgtz/2025_HuggingFace-certificate-1.jpg?rlkey=muanfem2h02w9g78tctfrzau4&st=5sg8efhj&dl=0), [3](https://www.dropbox.com/scl/fi/upnave4nik0f7cpx6bgjx/20241122_Udemy-Object-oriented-programmig.pdf?rlkey=xx9ol10wloicz95y8p6dfwu12&st=kl6wqlt0&dl=0)
-1. AI courses: [1](https://huggingface.co/learn/agents-course/unit0/introduction)(on-going), [2](https://github.com/marekkoc/uib-helse-bergen/blob/main/pdfs/AI_devs-3-Reloaded-B2B-EN.pdf)(starts on May 12<sup>th</sup>)
+1. AI courses: [1 (on-going)](https://huggingface.co/learn/agents-course/unit0/introduction), [2 (starts on May 12<sup>th</sup>)](https://github.com/marekkoc/uib-helse-bergen/blob/main/pdfs/AI_devs-3-Reloaded-B2B-EN.pdf)
 
 ## Senior Software Developer 
 
