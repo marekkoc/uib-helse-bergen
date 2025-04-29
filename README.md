@@ -40,7 +40,7 @@ Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/202504
    - "MRI simulator" of computer simulated vascular trees
    - Computer simulation of vascular tree growth and blood flow simulation through porus tissue   
 1. [Texture analysis of MR endometrial carcinoma images](https://github.com/marekkoc/EndoMR-TextureAnalysis/tree/main)
-1. [Mild Cognitive Impairment to Alzheimer’s Disease prediction with clinically transferable features](https://github.com/marekkoc/MCI-to-AD-Conversion-Predictors) ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src). [paper repo](https://github.com/marekkoc/Vik_et_al_FAQ-predictor-of-AD_paper-source-code))
+1. [Mild Cognitive Impairment to Alzheimer’s Disease prediction with clinically transferable features](https://github.com/marekkoc/MCI-to-AD-Conversion-Predictors) ([repo](https://github.com/MMIV-ML/MCI-subgroups), [sources](https://github.com/MMIV-ML/MCI-subgroups/tree/master/src). [paper repo](https://github.com/marekkoc/Vik_et_al_FAQ-predictor-of-AD_paper-source-code), [ui](https://github.com/marekkoc/uib-helse-bergen/blob/main/pdfs/misclassified_subjects.png))
 1. [Non-brain tissue removal from heterogenous set of 3D MR images with the use of Deep Learning algorithms](https://github.com/marekkoc/2d-3d-unet-skullstripping)
 1. [KidneySegm: Kidney compartment segmentation, analysis and visualization](https://github.com/MMIV-ML/KidneySegm)
 1. Other projects:
