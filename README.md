@@ -25,7 +25,7 @@ Helse Bergen applications:
 ## Postdoctoral research fellow in radiology and imaging-related Medical-AI
 1. [Motivation letter](https://www.dropbox.com/scl/fi/ge2emh4h8i0yshit3h63e/20250401_MKocinski_post-doc.pdf?rlkey=hjvr0mlbht1uv0h9nj5f25olz&st=r7w1o7zs&dl=0)
 2. Proposal 1. [Advanced Geometric Analysis and Modeling of Blood Vessel Networks
-Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/20250401_MMIV-proposal-1.pdf?rlkey=jhlc1f5owdhfrocodinro57yq&st=08urrixa&dl=0)
+Using AI Techniques](https://www.dropbox.com/scl/fi/im8bk5c2d9xuffnp1g7n4/20250401_MMIV-proposal-1.pdf?rlkey=jhlc1f5owdhfrocodinro57yq&st=08urrixa&dl=0), [slides](https://github.com/marekkoc/uib-helse-bergen/blob/main/pdfs/20250422_MMIV_post-doc-medical-imaging-project.pdf)
 3. Proposal 2. [Integrated Research and Education System for Multidisciplinary Research and Education](https://www.dropbox.com/scl/fi/1jcqltdj8mn6j59hbxiwc/20250401_MMIV-proposal-2.pdf?rlkey=z5bz0rz0noycduky91c36bopd&st=6mvni9dy&dl=0)
 
 # Related projects:
