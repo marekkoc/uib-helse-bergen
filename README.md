@@ -20,6 +20,7 @@ Helse Bergen applications:
 
 ## Senior Software Developer 
 1. [About me](https://github.com/marekkoc/uib-helse-bergen/blob/main/pdfs/20250422_MMIV_post-doc-medical-imaging-intro.pdf)
+1. Task [1](https://github.com/marekkoc/uib-helse-bergen/blob/main/task/task.md), [2](https://github.com/marekkoc/uib-helse-bergen/blob/main/task/task-v2.md)
 1. [Motivation letter](https://www.dropbox.com/scl/fi/cst79btriuczgo1e56111/20250331_MKocinski-UiB-MMIV-senior-software-developer.pdf?rlkey=jjitfcmtm18ptovl5ni3axbhw&st=zfkbaa27&dl=0)
 
 ## Postdoctoral research fellow in radiology and imaging-related Medical-AI
